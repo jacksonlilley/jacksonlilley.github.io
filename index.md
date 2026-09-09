@@ -18,4 +18,4 @@ How do wildfires affect snowpack accumulation and snowmelt over time?
 ![Mountains](img/mountains.jfif)
 
 ### Map
-<embed type="text/html" src="haskell.html" width="600" height="600">
+<embed type="text/html" src="dillon-resevoir.html" width="600" height="600">
