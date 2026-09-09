@@ -4,6 +4,7 @@
 * Email: jacksonlilley12@gmail.com
 * GitHub: https://jacksonlilley.github.io
 * LinkedIn: https://www.linkedin.com/in/jackson-lilley
+
 ### Educational Background
 I recently graduated from Chapman University with a degree in Environmental Science and Policy and a minor in Business Administration. I am currently working toward the Earth Data Analytics Foundations Professional Certificate through CU Boulder.
 ### About Me
@@ -12,5 +13,6 @@ I am from Colorado and have always enjoyed spending time outdoors, especially sk
 I am most excited to learn more about Python since that is where I have the least experience. I have worked with QGIS and ArcGIS before, so I’m interested in learning how Python can be used alongside GIS to map environmental data.
 ### Questions
 How do wildfires affect snowpack accumulation and snowmelt over time?
+
 ### Cool Image of Mountains
 ![Mountains](img/mountains.jfif)
