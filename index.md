@@ -14,7 +14,7 @@ I am most excited to learn more about Python and how to use GitHub since that is
 ### Question I Want to Answer Through This Class
 How do wildfires affect snowpack accumulation and snowmelt over time?
 
-### Cool Image of Mountains
+### Image of Mountains
 ![Mountains](img/mountains.jfif)
 
 ### Map
