@@ -12,3 +12,4 @@ I am from Colorado and have always enjoyed spending time outdoors, especially sk
 I am most excited to learn more about Python since that is where I have the least experience. I have worked with QGIS and ArcGIS before, so I’m interested in learning how Python can be used alongside GIS to map environmental data.
 ### Questions
 How do wildfires affect snowpack accumulation and snowmelt over time?
+![Mountains](img/mountains.jfif)
