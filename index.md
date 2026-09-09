@@ -1,9 +1,9 @@
 # Earth Data Science Portfolio
 ## Jackson Lilley
 ### Contact Information
-*jacksonlilley12@gmail.com
-*https://jacksonlilley.github.com
-*https://www.linkedin.com/in/jackson-lilley
+* jacksonlilley12@gmail.com
+* https://jacksonlilley.github.com
+* https://www.linkedin.com/in/jackson-lilley
 ### Educational Background
 I recently graduated from Chapman University with a degree in Environmental Science and Policy and a minor in Business Administration. I am currently working toward the Earth Data Analytics Foundations Professional Certificate through CU Boulder.
 ### About Me
