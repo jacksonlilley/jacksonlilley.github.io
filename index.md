@@ -2,7 +2,7 @@
 ## Jackson Lilley
 ### Contact Information
 * Email: jacksonlilley12@gmail.com
-* GitHub: https://jacksonlilley.github.com
+* GitHub: https://jacksonlilley.github.io
 * LinkedIn: https://www.linkedin.com/in/jackson-lilley
 ### Educational Background
 I recently graduated from Chapman University with a degree in Environmental Science and Policy and a minor in Business Administration. I am currently working toward the Earth Data Analytics Foundations Professional Certificate through CU Boulder.
