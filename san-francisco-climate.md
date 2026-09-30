@@ -11,7 +11,7 @@ The dataset included daily maximum and minimum temperatures. I used those values
 
 The mean annual temperature changes from year to year, but the overall pattern shows that temperatures became warmer over time. Some years were warmer or cooler than others, but many of the warmer years happened later in the dataset.
 
-## Long-Term Temperature Trend
+## Temperature Trend
 
 ![Temperature trend in the San Francisco Bay Area](img/temp_trend_sf.png)
 
