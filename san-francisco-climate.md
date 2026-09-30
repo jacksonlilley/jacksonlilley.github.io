@@ -7,13 +7,13 @@ The dataset included daily maximum and minimum temperatures. I used those values
 
 ## Mean Annual Temperature
 
-![Mean annual temperature in the San Francisco Bay Area](san_francisco_annual_temp.png)
+![Mean annual temperature in the San Francisco Bay Area](img/annual_temp_sf.png)
 
 The mean annual temperature changes from year to year, but the overall pattern shows that temperatures became warmer over time. Some years were warmer or cooler than others, but many of the warmer years happened later in the dataset.
 
 ## Long-Term Temperature Trend
 
-![Temperature trend in the San Francisco Bay Area](san_francisco_trend.png)
+![Temperature trend in the San Francisco Bay Area](img/temp_trend_sf.png)
 
 I used a linear regression to look at the long-term temperature trend.
 The slope of the trend line was about **0.017 °C per year**, which is about **0.17 °C per decade**.
