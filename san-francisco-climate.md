@@ -16,7 +16,7 @@ The mean annual temperature changes from year to year, but the overall pattern s
 ![Temperature trend in the San Francisco Bay Area](img/temp_trend_sf.png)
 
 I used a linear regression to look at the long-term temperature trend.
-The slope of the trend line was about **0.017 °C per year**, which is about **0.17 °C per decade**.
+The slope of the trend line was about 0.017 °C per year.
 This means that the average annual temperature increased over the time period in the dataset. There is still a lot of year-to-year variation, but the overall trend is upward.
 
 ## Why I Used a Linear Regression
