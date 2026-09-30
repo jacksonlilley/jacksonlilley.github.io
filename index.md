@@ -19,3 +19,6 @@ How do wildfires affect snowpack accumulation and snowmelt over time?
 
 ### Map
 <embed type="text/html" src="dillon-resevoir.html" width="600" height="600">
+
+### Climate Change Portfolio Post
+[Climate Change in the San Francisco Bay Area](san-francisco-climate.html)
