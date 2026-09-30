@@ -26,9 +26,9 @@ The model does not explain every warm or cool year. Instead, it helps show the g
 
 ## Conclusion
 
-Overall, the temperature data from the Alameda NAS weather station show a gradual warming trend in the San Francisco Bay Area. Average annual temperature increased by about **0.17 °C per decade** during the time period analyzed.
+Overall, the temperature data from the Alameda NAS weather station show a gradual warming trend in the San Francisco Bay Area. Average annual temperature increased by about 0.17 °C per decade during the time period analyzed.
 Even though temperatures changed from year to year, the long-term trend shows that the area became warmer over time.
 
 ## Data Source
 
-Temperature data were downloaded from the **NOAA National Centers for Environmental Information (NCEI)**.
+Temperature data were downloaded from the NOAA National Centers for Environmental Information (NCEI).
