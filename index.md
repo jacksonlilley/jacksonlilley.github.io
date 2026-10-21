@@ -22,3 +22,6 @@ How do wildfires affect snowpack accumulation and snowmelt over time?
 
 ### Climate Change Portfolio Post
 [Climate Change in the San Francisco Bay Area](san-francisco-climate.html)
+
+### Veery Migration Mapping Assingnment
+<a href="veery-migration.html">Veery Migration Mapping Assignmnet</a>
