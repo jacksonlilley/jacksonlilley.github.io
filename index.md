@@ -24,4 +24,4 @@ How do wildfires affect snowpack accumulation and snowmelt over time?
 <a href="veery-migration.html">Veery Migration Mapping Assignmnet</a>
 
 ### Sandhill Crane Migration Mapping Assignment
-<a href="sandhill_crane_map.html">Sandhill Crane Migration Mapping Assignment</a>
+<a href="sandhill-crane-migration.html">Sandhill Crane Migration Mapping Assignment</a>
