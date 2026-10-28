@@ -1,0 +1,64 @@
+ <h1>Sandhill Crane Migration</h1>
+
+  <h2>Research Question</h2>
+  <p>
+    How does the location of Sandhill Crane observations
+    change throughout the year?
+  </p>
+
+  <h2>Methods</h2>
+  <p>
+    I used Sandhill Crane records from GBIF
+    collected in 2024. I used Python and GeoPandas
+    to organize the data and match observations to
+    different ecoregions. I then calculated
+    observation values and created an interactive map
+    using hvPlot to compare observations by month.
+  </p>
+
+  <h2>Interactive Sandhill Crane Migration Map</h2>
+  <p>
+    Use the month selector to see how Sandhill Crane
+    observations change throughout the year.
+    The colors show observations in
+    different ecoregions, not exact bird populations.
+  </p>
+
+  <iframe
+    src="sandhill_crane_map.html"
+    width="100%"
+    height="750"
+    style="border: none;"
+    title="Sandhill Crane Migration Map">
+  </iframe>
+
+  <h2>Results</h2>
+  <p>
+    The map shows seasonal changes in Sandhill Crane
+    observations. During winter, observations are mostly
+    found in southern parts of North America. During
+    summer, observations go farther north into
+    Canada. By fall, observations begin moving south
+    again.
+  </p>
+
+  <h2>Interpretation</h2>
+  <p>
+    The results show that Sandhill Cranes move
+    between northern and southern habitats throughout
+    the year. They spend warmer months in northern
+    breeding areas and move south when temperatures
+    get colder. This matches what is known about seasonal
+    migration of Sandhill Cranes. However, GBIF
+    observations depend on where people report
+    sightings, so the map does not show exact
+    population sizes.
+  </p>
+
+  <h2>Data Source</h2>
+  <p>
+    Global Biodiversity Information Facility (GBIF).
+    Sandhill Crane occurrence data, 2024.
+    <a href="https://www.gbif.org/occurrence/download/0010009-261023074918325"
+       target="_blank">
+      View GBIF Dataset
