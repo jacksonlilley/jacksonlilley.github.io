@@ -17,11 +17,11 @@ How do wildfires affect snowpack accumulation and snowmelt over time?
 ### Image of Mountains
 ![Mountains](img/mountains.jfif)
 
-### Map
-<embed type="text/html" src="dillon-resevoir.html" width="600" height="600">
-
 ### Climate Change Portfolio Post
 [Climate Change in the San Francisco Bay Area](san-francisco-climate.html)
 
 ### Veery Migration Mapping Assingnment
 <a href="veery-migration.html">Veery Migration Mapping Assignmnet</a>
+
+### Sandhill Crane Migration Mapping Assignment
+<a href="sandhill-crane.html">Sandhill Crane Migration Mapping Assignment</a>
