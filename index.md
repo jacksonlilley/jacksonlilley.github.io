@@ -26,5 +26,5 @@ How do wildfires affect snowpack accumulation and snowmelt over time?
 ### Sandhill Crane Migration Mapping Assignment
 <a href="sandhill-crane-migration.html">Sandhill Crane Migration Mapping Assignment</a>
 
-### Rocky Mountain National Park Vegetation Analysis
+### Rocky Mountain National Park Vegetation Assignment
 <a href="rocky-mountain-vegetation.html">Rocky Mountain National Park Vegetation Assignment</a>
